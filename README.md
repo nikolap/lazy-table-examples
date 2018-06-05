@@ -1,3 +1,5 @@
-# lazy-table-examples
+# lazy-table-examples -- MOVED TO GITLAB
 
-Examples for the [lazy-table](https://github.com/nikolap/lazy-table) project.
+Moved to [Gitlab](https://gitlab.com/nikperic/lazy-table-examples)
+
+Examples for the [lazy-table](https://gitlab.com/nikperic/lazy-table) project.
